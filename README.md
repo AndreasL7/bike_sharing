@@ -1,5 +1,4 @@
 # bike_sharing
----
 
 ### Overview
 
@@ -29,3 +28,16 @@ Our project is organized into the following key phases:
 
 
 4. Recommendations: We provide strategic recommendations based on our findings to guide Ziro's market entry and go-to-market strategies.
+
+### Repository
+
+In this repository, you can find the following:
+
+1. Project Summary
+2. Full Report 
+3. Data Visualisation Notebook
+4. Predictive Modelling Notebook
+
+### Additional Information
+
+Construction of web interface for this project is under way.
