@@ -38,6 +38,10 @@ In this repository, you can find the following:
 3. Data Visualisation Notebook
 4. Predictive Modelling Notebook
 
+### Final Grade
+
+The final grade obtained for DBA4811 Analytical Tools for Consulting: A+
+
 ### Additional Information
 
 Construction of web interface for this project is under way.
